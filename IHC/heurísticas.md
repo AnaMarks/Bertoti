@@ -8,14 +8,15 @@ O design deve garantir que os usuários estejam sempre cientes do que está acon
 - Forneça feedback aos usuários o mais rápido possível.
 - Construa confiança através de comunicação aberta e contínua.
 
-* Exemplo 1- Nesta imagem podemos ver claramente o andamento do download, o quanto falta o e quanto já foi
+* Exemplo 1- Nesta imagem, podemos ver claramente o andamento do download, o quanto falta e quanto já foi concluído.
 <div>
   
 ![Captura de tela 2023-05-18 233352](https://github.com/AnaMarks/Bertoti/assets/100285307/da1b8d84-1dab-4d91-bf4d-e33c3e09058e)
   
 </div>
 
-* Exemplo 2- Aqui vemos que sabemos exatamente em que parte estamos do vídeo, quanto tempo falta para acabar, se está pausado ou não assim estando completamente informado do que está acontecendo
+* Exemplo 2- Aqui vemos exatamente em que parte estamos do vídeo, quanto tempo falta para acabar, se está pausado ou não, estando completamente informado do que está acontecendo.
+
 <div>
 
   ![Captura de tela 2023-05-18 233055](https://github.com/AnaMarks/Bertoti/assets/100285307/2696b591-3ec9-47cf-bb6f-87d221da9ea0)
@@ -29,15 +30,14 @@ O design deve usar linguagem, termos, frases e conceitos familiares aos usuário
 - Utilize palavras, conceitos e imagens compreensíveis para os usuários.
 - Siga as convenções do mundo real e apresente informações de maneira lógica.
 
-* Exemplo 1 - Neste caso podemos ver uma falta de correspondência entre o ícone e oque realmente faz que no caso a parte de relatório não gera um gráfico
-
+* Exemplo 1 -  Neste caso, podemos ver uma falta de correspondência entre o ícone e o que realmente faz, onde a parte de "Relatório" não gera um gráfico.
 <div>
   
   ![Imagem do WhatsApp de 2023-05-18 à(s) 10 12 52](https://github.com/AnaMarks/Bertoti/assets/100285307/e067a8e6-332f-43ea-be6a-bb856ad8ba3d)
   
 </div>
 
-* Exemplo 2 - Já este podemos ver uma correspondência entre os ícones e a real função dele, como exemplo a caixa de spam estão todos os emails identificados como spam
+* Exemplo 2 - Já neste exemplo, podemos ver uma correspondência entre os ícones e a real função deles, como na caixa de spam, onde estão todos os e-mails identificados como spam.
 
 <div>
   
@@ -52,7 +52,7 @@ Os usuários devem ter controle sobre o sistema e a liberdade de desfazer açõe
 - Forneça uma opção claramente identificada para desfazer ações ("saída de emergência").
 - Permita que os usuários cancelem interações indesejadas.
 
-* Exemplo - Neste caso podemos ver que ao deletar um email é disponibilizada a função de "desfazer"
+* Exemplo -  Neste caso, ao deletar um e-mail, é disponibilizada a função "desfazer".
 
 <div>
   
@@ -67,7 +67,7 @@ O design deve aderir às convenções e padrões do sistema e da indústria, par
 - Mantenha a consistência dentro do produto ou de uma família de produtos.
 - Siga as convenções estabelecidas pela indústria.
 
-* Exemplo 1 - Na tela do youTube podemos ver uma consistência das cores, elementos, posições dos elementos entre outras coisas, independente de qual aba estamos
+* Exemplo -  Na tela do YouTube, podemos ver uma consistência nas cores, elementos e posições dos elementos, independentemente da aba em que estamos.
 
 <div>
   
@@ -82,7 +82,7 @@ Evite erros, eliminando condições propensas a eles e solicitando confirmação
 - Elimine condições que possam levar a erros.
 - Forneça opções de confirmação antes de ações irreversíveis.
 
-* Exemplo 1 - Como podemos ver no site da companhia aére Azul, quando vamos selecionar a data de partida as datas anteriores ao dia atual são desabilitadas para não ter futuras complicações
+* Exemplo 1 - No site da companhia aérea Azul, as datas anteriores ao dia atual são desabilitadas ao selecionar a data de partida, para evitar futuras complicações.
 
 <div>
   
@@ -90,7 +90,7 @@ Evite erros, eliminando condições propensas a eles e solicitando confirmação
   
 </div>
 
-* Exemplo 2 - Já está caixa de confirmação te oferece a opção de não excluir algo que você pode ter clicado por engano
+* Exemplo 2 - Esta caixa de confirmação oferece a opção de não excluir algo que você possa ter clicado por engano.
 
 <div>
   
@@ -105,8 +105,7 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - Torna as informações necessárias visíveis ou facilmente recuperáveis.
 - Permita que os usuários reconheçam informações, em vez de exigir que lembrem delas.
 
-* Exemplo - Em sistemas bancários temos as opções de vizualizar as pessoas para qual transferimos dinheiro ultimamente e até mesmo favoritar assim deixando mais fácil tranferir novamente sem precisar inserir todos os dados da pessoa de novo
-
+* Exemplo - Em sistemas bancários, temos opções para visualizar as pessoas para as quais transferimos dinheiro recentemente e até mesmo favoritá-las, facilitando futuras transferências sem precisar inserir todos os dados da pessoa novamente.
 <div>
   
   ![Imagem do WhatsApp de 2023-05-18 à(s) 23 02 34](https://github.com/AnaMarks/Bertoti/assets/100285307/5fd35f75-817e-4874-be6b-1fd7183d5783)
@@ -119,9 +118,7 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - Permita que os usuários personalizem ações frequentes.
 - Ofereça processos flexíveis com diferentes opções para os usuários.
 
-* Errado -
-
-* Certo -
+* Exemplo - 
 
 ## Princípio 8: Design estético e minimalista
 
@@ -129,7 +126,7 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - Mantenha o design visual focado no essencial.
 - Apoie os principais objetivos do usuário.
 
-* Exemplo - Aqui podemos ver o site da APEOESP com uma interface bem poluída com muitos elementos desnecessário
+* Exemplo -Aqui podemos ver o site da APEOESP com uma interface poluída com muitos elementos desnecessários.
 
 <div> 
   
@@ -142,7 +139,8 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - Mensagens de erro devem ser claras e precisas.
 - Use elementos visuais para chamar a atenção dos usuários.
 - Sugira soluções construtivas para os erros.
-* Exemplo 1- No site gov.br não deixam claro qual campo está a informação errada se é no email ou na senha 
+- 
+* Exemplo 1- No site gov.br, não fica claro qual campo possui a informação errada, se é o email ou a senha.
 
 <div>
   
@@ -151,7 +149,7 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
   
 </div>
 
-* Exemplo 2- No site da amazon deixa claro que o campo que está com a informação errada é a senha 
+* Exemplo 2- No site da Amazon, fica claro que o campo com a informação errada é a senha.
 
 <div>
   
@@ -166,6 +164,4 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - A documentação deve ser de fácil pesquisa e focada nas tarefas dos usuários.
 - Forneça etapas concretas para 
 
-* Errado -
-
-* Certo -
+* Exemplo - 
