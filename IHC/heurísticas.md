@@ -1,5 +1,9 @@
 ---
 
+Nome: Ana Clara Marques Portes.
+
+Curso: Desenvolvimento de Software Multiplataforma, 3 semestre.
+
 ## Princípio 1: Transparência do estado do sistema
 
 O design deve garantir que os usuários estejam sempre cientes do que está acontecendo, fornecendo feedback adequado em um tempo razoável.
@@ -170,4 +174,3 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - A documentação deve ser de fácil pesquisa e focada nas tarefas dos usuários.
 - Forneça etapas concretas para 
 
-* Exemplo - 
