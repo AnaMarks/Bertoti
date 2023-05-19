@@ -13,9 +13,10 @@ O design deve garantir que os usuários estejam sempre cientes do que está acon
 - Construa confiança através de comunicação aberta e contínua.
 
 * Exemplo 1- Nesta imagem, podemos ver claramente o andamento do download, o quanto falta e quanto já foi concluído.
+
 <div>
   
-![Captura de tela 2023-05-18 233352](https://github.com/AnaMarks/Bertoti/assets/100285307/da1b8d84-1dab-4d91-bf4d-e33c3e09058e)
+![Captura de tela 2023-05-18 233352](https://github.com/AnaMarks/Bertoti/assets/100285307/4a688a12-4012-4ce3-a81f-3d79e71767a8)
   
 </div>
 
@@ -23,7 +24,7 @@ O design deve garantir que os usuários estejam sempre cientes do que está acon
 
 <div>
 
-  ![Captura de tela 2023-05-18 233055](https://github.com/AnaMarks/Bertoti/assets/100285307/2696b591-3ec9-47cf-bb6f-87d221da9ea0)
+ ![Captura de tela 2023-05-18 233055](https://github.com/AnaMarks/Bertoti/assets/100285307/0254c24d-baaf-48b2-8c4f-c8f9e874ea1c)
   
 </div>
 
@@ -35,9 +36,10 @@ O design deve usar linguagem, termos, frases e conceitos familiares aos usuário
 - Siga as convenções do mundo real e apresente informações de maneira lógica.
 
 * Exemplo 1 -  Neste caso, podemos ver uma falta de correspondência entre o ícone e o que realmente faz, onde a parte de "Relatório" não gera um gráfico.
+
 <div>
   
-  ![Imagem do WhatsApp de 2023-05-18 à(s) 10 12 52](https://github.com/AnaMarks/Bertoti/assets/100285307/e067a8e6-332f-43ea-be6a-bb856ad8ba3d)
+![Captura de tela 2023-05-18 101040](https://github.com/AnaMarks/Bertoti/assets/100285307/3e1e3969-98be-4c13-9827-a6074a76a419)
   
 </div>
 
@@ -45,7 +47,7 @@ O design deve usar linguagem, termos, frases e conceitos familiares aos usuário
 
 <div>
   
-  ![Imagem do WhatsApp de 2023-05-18 à(s) 10 18 48](https://github.com/AnaMarks/Bertoti/assets/100285307/56a18201-8103-4a57-8176-dfbcec00010f)
+![Captura de tela 2023-05-18 101833](https://github.com/AnaMarks/Bertoti/assets/100285307/1e869a45-da26-46e1-8969-09a3a0710005)
   
 </div>
 
@@ -60,7 +62,7 @@ Os usuários devem ter controle sobre o sistema e a liberdade de desfazer açõe
 
 <div>
   
-  ![Imagem do WhatsApp de 2023-05-18 à(s) 15 52 03](https://github.com/AnaMarks/Bertoti/assets/100285307/f703f4f4-0765-427e-a636-46584863deba)
+![Captura de tela 2023-05-18 154933](https://github.com/AnaMarks/Bertoti/assets/100285307/98ed32e3-afc0-474d-b362-39a15280e0ee)
 
 </div>
 
@@ -74,8 +76,8 @@ O design deve aderir às convenções e padrões do sistema e da indústria, par
 * Exemplo -  Na tela do YouTube, podemos ver uma consistência nas cores, elementos e posições dos elementos, independentemente da aba em que estamos.
 
 <div>
-  
-![Captura de tela 2023-05-18 231728](https://github.com/AnaMarks/Bertoti/assets/100285307/431c2fee-2423-477f-9a46-cf2c3df3c692)
+
+  ![Captura de tela 2023-05-18 231728](https://github.com/AnaMarks/Bertoti/assets/100285307/364776bd-698c-43e9-819a-e385be9a577c)
   
 </div>
 
@@ -89,8 +91,8 @@ Evite erros, eliminando condições propensas a eles e solicitando confirmação
 * Exemplo 1 - No site da companhia aérea Azul, as datas anteriores ao dia atual são desabilitadas ao selecionar a data de partida, para evitar futuras complicações.
 
 <div>
-  
-  ![Captura de tela 2023-05-18 224323](https://github.com/AnaMarks/Bertoti/assets/100285307/76429c99-2080-479b-861d-b01c574e6f7d)
+ 
+  ![Captura de tela 2023-05-18 224323](https://github.com/AnaMarks/Bertoti/assets/100285307/29664d93-6004-40d0-bd3e-47957621968f)
   
 </div>
 
@@ -98,7 +100,7 @@ Evite erros, eliminando condições propensas a eles e solicitando confirmação
 
 <div>
   
-  ![Captura de tela 2023-05-18 224439](https://github.com/AnaMarks/Bertoti/assets/100285307/c71409f9-bc7b-4ed4-ba3f-8a7c055949b8)
+  ![Captura de tela 2023-05-18 224439](https://github.com/AnaMarks/Bertoti/assets/100285307/0587b5bc-9c10-4c09-9463-9b488f6fb461)
   
 </div>
 
@@ -110,10 +112,11 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - Permita que os usuários reconheçam informações, em vez de exigir que lembrem delas.
 
 * Exemplo - Em sistemas bancários, temos opções para visualizar as pessoas para as quais transferimos dinheiro recentemente e até mesmo favoritá-las, facilitando futuras transferências sem precisar inserir todos os dados da pessoa novamente.
+
 <div>
   
-  ![Imagem do WhatsApp de 2023-05-18 à(s) 23 02 34](https://github.com/AnaMarks/Bertoti/assets/100285307/5fd35f75-817e-4874-be6b-1fd7183d5783)
-  
+  ![Imagem do WhatsApp de 2023-05-19 à(s) 10 31 53](https://github.com/AnaMarks/Bertoti/assets/100285307/a3ae640b-06ca-484f-81d0-59578afa8f4c)
+
 </div>
 
 ## Princípio 7: Flexibilidade e eficiência de uso
@@ -126,7 +129,7 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 
 <div>
   
-  ![Captura de tela 2023-05-19 100229](https://github.com/AnaMarks/Bertoti/assets/100285307/01d2e7fe-9670-48bb-9c0e-e687127e1c39)
+![Captura de tela 2023-05-19 100229](https://github.com/AnaMarks/Bertoti/assets/100285307/72a39e17-b70b-4576-94ba-7f152ba7f202)
   
 </div>
 
@@ -140,7 +143,7 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 
 <div> 
   
-  ![Imagem do WhatsApp de 2023-05-18 à(s) 23 11 15](https://github.com/AnaMarks/Bertoti/assets/100285307/9c9b379f-a417-4436-b071-15dfe404176e)
+![Imagem do WhatsApp de 2023-05-18 à(s) 23 11 15](https://github.com/AnaMarks/Bertoti/assets/100285307/48cd92d0-a933-49b9-9ea3-ee1718e6c1e9)
   
 </div>
 
@@ -149,13 +152,12 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - Mensagens de erro devem ser claras e precisas.
 - Use elementos visuais para chamar a atenção dos usuários.
 - Sugira soluções construtivas para os erros.
-- 
+
 * Exemplo 1- No site gov.br, não fica claro qual campo possui a informação errada, se é o email ou a senha.
 
 <div>
   
-![Imagem do WhatsApp de 2023-05-18 à(s) 09 51 06](https://github.com/AnaMarks/Bertoti/assets/100285307/7cd18e43-faf7-4055-af4e-03886f844885)
-
+![Imagem do WhatsApp de 2023-05-18 à(s) 09 51 05](https://github.com/AnaMarks/Bertoti/assets/100285307/f33da399-844b-49c3-be7d-f16c64c6b064)
   
 </div>
 
@@ -163,7 +165,7 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 
 <div>
   
-  ![Imagem do WhatsApp de 2023-05-18 à(s) 10 04 02](https://github.com/AnaMarks/Bertoti/assets/100285307/1a58d275-8ea9-4f61-a830-367435a45d1f)
+  ![Captura de tela 2023-05-18 100256](https://github.com/AnaMarks/Bertoti/assets/100285307/a500873c-df3f-44ce-8071-5eb40926e1eb)
   
 </div>
 
