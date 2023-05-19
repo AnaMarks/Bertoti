@@ -118,7 +118,13 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - Permita que os usuários personalizem ações frequentes.
 - Ofereça processos flexíveis com diferentes opções para os usuários.
 
-* Exemplo - 
+* Exemplo - No YouTube, os usuários têm a opção de utilizar o cursor para selecionar os ícones de "pausar" e "reproduzir" nos vídeos, bem como avançar ou retroceder na reprodução. Além disso, é possível realizar essas ações utilizando atalhos do teclado. Por exemplo, pressionando a tecla "espaço", é possível pausar ou dar continuidade ao vídeo.
+
+<div>
+  
+  ![Captura de tela 2023-05-19 100229](https://github.com/AnaMarks/Bertoti/assets/100285307/01d2e7fe-9670-48bb-9c0e-e687127e1c39)
+  
+</div>
 
 ## Princípio 8: Design estético e minimalista
 
@@ -126,7 +132,7 @@ Reduza a carga de memória dos usuários, tornando informações e ações visí
 - Mantenha o design visual focado no essencial.
 - Apoie os principais objetivos do usuário.
 
-* Exemplo -Aqui podemos ver o site da APEOESP com uma interface poluída com muitos elementos desnecessários.
+* Exemplo - Aqui podemos ver o site da APEOESP com uma interface poluída com muitos elementos desnecessários.
 
 <div> 
   
